@@ -68,14 +68,6 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddha
 
 ------------------------------------------------------------------------
 
-## 📫 Connect With Me
-
--   💼 LinkedIn: Add your LinkedIn link here
--   📧 Email: Add your email here
--   🌐 Portfolio: Add your portfolio link here
-
-------------------------------------------------------------------------
-
 ```{=html}
 <p align="center">
 ```
