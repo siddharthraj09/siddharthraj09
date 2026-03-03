@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Siddharth Raj
 
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Siddharth%20Raj&fontSize=40&fontColor=ffffff" />`{=html}
-```{=html}
-</p>
-```
 ## 🚀 Full Stack Developer \| Problem Solver \| Tech Enthusiast
 
 Passionate about building scalable web applications, solving complex
