@@ -41,16 +41,6 @@ Git \| GitHub \| VS Code \| Postman
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub Stats
-
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=siddharthraj09&show_icons=true&theme=tokyonight)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthraj09&layout=compact&theme=tokyonight)
-
-------------------------------------------------------------------------
-
 ## 🏆 Highlight Projects
 
 -   🚀 Scalable REST API systems
